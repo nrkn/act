@@ -1,6 +1,6 @@
 {
   "name": "@nrkn/act",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read and write Adobe Color Table files",
   "main": "./dist/index.js",
   "scripts": {
